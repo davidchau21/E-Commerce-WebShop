@@ -77,12 +77,20 @@ Once installed, you can access the application in your web browser at `http://lo
 Here are some screenshots of the web application:
 
 ### Home Page
-![Home Page](path_to_home_page_screenshot)
+![Home Page](img/home1.png)
+![Home Page](img/home2.png)
+![Home Page](img/home3.png)
 
 ### Product Page
-![Product Page](path_to_product_page_screenshot)
+![Product Page](img/product.png)
+
+### Product Detail
+![Product Detail](img/detail.png)
 
 ### Shopping Cart
-![Shopping Cart](path_to_shopping_cart_screenshot)
+![Shopping Cart](img/cart.png)
+
+### Payment
+![Payment](img/pay.png)
 
 
