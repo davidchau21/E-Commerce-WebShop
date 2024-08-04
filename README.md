@@ -14,7 +14,6 @@ You can access the project [here](https://github.com/davidchau21/E-Commerce-WebS
 - [Setup](#setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Class Diagram](#class-diagram)
 
 ## Overview
 
